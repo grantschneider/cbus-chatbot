@@ -1,3 +1,4 @@
 llama-index
+llama-index-embeddings-ollama
 langchain
 langchain-community
